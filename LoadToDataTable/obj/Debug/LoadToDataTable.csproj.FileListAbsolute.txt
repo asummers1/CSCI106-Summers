@@ -1,0 +1,25 @@
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\bin\Debug\LoadToDataTable.exe.config
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\bin\Debug\LoadToDataTable.exe
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\bin\Debug\LoadToDataTable.pdb
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.csprojAssemblyReference.cache
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.Properties.Resources.resources
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.ViewTable.resources
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.csproj.GenerateResource.cache
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.csproj.CoreCompileInputs.cache
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.exe
+E:\rickm\Documents\Code\GitHub\CSCI106GenericExample\LoadToDataTable\obj\Debug\LoadToDataTable.pdb
+E:\CSCI 106\LoadToDataTable\bin\Debug\Data\LegoStarWars.csv
+E:\CSCI 106\LoadToDataTable\bin\Debug\LoadToDataTable.exe.config
+E:\CSCI 106\LoadToDataTable\bin\Debug\LoadToDataTable.exe
+E:\CSCI 106\LoadToDataTable\bin\Debug\LoadToDataTable.pdb
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.csprojAssemblyReference.cache
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.Properties.Resources.resources
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.ViewTable.resources
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.csproj.GenerateResource.cache
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.exe
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.pdb
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.LegoSetDisplay.resources
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.Resources.LocalizableStrings.ENG_US.resources
+E:\CSCI 106\LoadToDataTable\bin\Debug\Data\DC-Characters.csv
+E:\CSCI 106\LoadToDataTable\bin\Debug\Data\Marvel-Characters.csv
+E:\CSCI 106\LoadToDataTable\obj\Debug\LoadToDataTable.CharacterData.resources
