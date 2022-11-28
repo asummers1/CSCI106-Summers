@@ -1,0 +1,9 @@
+C:\Users\alex_000\source\repos\Country Information\Country Information\bin\Debug\Country Information.exe.config
+C:\Users\alex_000\source\repos\Country Information\Country Information\bin\Debug\Country Information.exe
+C:\Users\alex_000\source\repos\Country Information\Country Information\bin\Debug\Country Information.pdb
+C:\Users\alex_000\source\repos\Country Information\Country Information\obj\Debug\Country Information.csprojAssemblyReference.cache
+C:\Users\alex_000\source\repos\Country Information\Country Information\obj\Debug\Country_Information.CountryData.resources
+C:\Users\alex_000\source\repos\Country Information\Country Information\obj\Debug\Country_Information.Properties.Resources.resources
+C:\Users\alex_000\source\repos\Country Information\Country Information\obj\Debug\Country Information.csproj.GenerateResource.cache
+C:\Users\alex_000\source\repos\Country Information\Country Information\obj\Debug\Country Information.exe
+C:\Users\alex_000\source\repos\Country Information\Country Information\obj\Debug\Country Information.pdb
